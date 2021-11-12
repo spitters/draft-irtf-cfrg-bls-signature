@@ -47,6 +47,8 @@ This repo was moved from [here](https://github.com/pairingwg/bls_standard).
 ## Useful links:
 * Pairing draft: [stable](https://datatracker.ietf.org/doc/draft-irtf-cfrg-pairing-friendly-curves/), [dev](https://github.com/pairingwg/pfc_standard)
 * Hash to curve draft: [stable](https://tools.ietf.org/html/draft-irtf-cfrg-hash-to-curve/), [dev](https://github.com/cfrg/draft-irtf-cfrg-hash-to-curve)
+* Specification in [hacspec](https://github.com/hacspec/hacspec/):
+  * https://github.com/hacspec/hacspec/blob/master/examples/bls12-381/src/bls12-381.rs
 * Current reference implementations:
   * https://github.com/kwantam/bls_sigs_ref
   * https://github.com/sigp/milagro_bls/
